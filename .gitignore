@@ -2,6 +2,9 @@
 target/
 bin/
 tmp/
+*.classpath
+*.project
+*.md
 *.tmp
 *.bak
 *.swp
