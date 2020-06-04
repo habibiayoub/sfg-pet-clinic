@@ -36,7 +36,8 @@
 		</plugins>
 	</build>
 	<scm>
-		<developerConnection>scm:git:https://github.com/habibiayoub/sfg-pet-clinic.git</developerConnection>
+		<connection>git@github.com:habibiayoub/sfg-pet-clinic.git</connection>
+        <url>git@github.com:habibiayoub/sfg-pet-clinic</url>
 	</scm>
 
 	<modules>
