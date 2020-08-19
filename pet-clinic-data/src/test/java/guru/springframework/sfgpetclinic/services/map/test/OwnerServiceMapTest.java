@@ -1,4 +1,4 @@
-package guru.springframework.sfgpetclinic.services.map;
+package guru.springframework.sfgpetclinic.services.map.test;
 
 
 import java.util.Set;
@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 import guru.springframework.sfgpetclinic.model.Owner;
+import guru.springframework.sfgpetclinic.services.map.OwnerServiceMap;
 
 class OwnerServiceMapTest {
 	
