@@ -75,4 +75,10 @@ public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements 
 				orElse(null);
 	}
 
+	@Override
+	public Set<Owner> findAllByLastNameLike(String lastName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
